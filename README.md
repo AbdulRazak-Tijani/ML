@@ -1,2 +1,2 @@
 # ML
-The little projects I have done as an ML beginner
+The little projects I have done as an AI/ML beginner
